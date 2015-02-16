@@ -3,7 +3,7 @@
 
 ### Loading and preprocessing the data
 
-I assume that the file `activity.cgesv` is placed in the same folder as this file (`PA1_template.Rmd`).
+I assume that the file `activity.csv` is placed in the same folder as this file (`PA1_template.Rmd`).
 
 
 ```r
